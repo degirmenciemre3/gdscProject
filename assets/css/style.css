@@ -58,7 +58,7 @@ button {
     padding: 0; 
  }
  .container{
-     background: url("./İMAGES/bg.jpg");
+     background: url("/assets/images/bg.jpg");
      height: 100vh;
      background-size: 100% 100%;
  
